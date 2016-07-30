@@ -32,6 +32,10 @@
 [Cobalt2](https://github.com/wesbos/Cobalt2-iterm)  
 Follow repo's guide. (There is one font inside this repo)
 
+Useful issue (in case you want to customize the dir's number of characters displayed)  
+[https://github.com/wesbos/Cobalt2-iterm/issues/15](https://github.com/wesbos/Cobalt2-iterm/issues/15)
+
+
 &nbsp;
 
 &nbsp;
