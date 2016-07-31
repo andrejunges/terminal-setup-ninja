@@ -43,5 +43,6 @@ Useful issue (in case you want to customize the dir's number of characters displ
 
 Missing brew?  
 [Brew](http://brew.sh/)  
-`/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-`
+`/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+
+For more information check out the awesome Wesbos's serie [**Command Line Power User**](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7tXPJp5ZmUpuT7sFvrswzf)
